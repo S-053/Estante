@@ -1,0 +1,27 @@
+  /*if (up)
+  {
+    //y = y - 10
+    pza12IzqFunc();
+    Arriba();
+  }
+  if (right){
+    Derecha()
+  }
+  if (down){
+    pza12DerFunc();
+    Abajo();
+    //y = y + 10
+  }
+  if (left){
+    Izquierda();
+    //x = x - 10
+  }
+  if (jump){
+    Brincar();
+    //x = x - 10
+  }if (crouch){
+    Agacharce();
+    //x = x - 10
+  }
+  //div.style.left = x+'px'
+  //div.style.top = y+'px'*/
